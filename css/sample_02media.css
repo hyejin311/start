@@ -93,4 +93,47 @@ top:40%;
 }
 header>div>p#btn>span:nth-child(3){
 bottom:0; top:auto;
+}
+section{
+padding:98px 0 309px;
+}
+
+section>form{
+width:86.1224489%;/* 844px; */
+padding:60px 0 52px;
+}
+    
+section>form>fieldset{
+width:86.9668246%;/* 734px; */
+margin:0 auto;
+}
+section>form ul>li{
+padding-left: 0px;
+position:relative;
+}
+section>form ul>li>label{
+display: block;
+position:absolute; left:0; top:0;
+width:auto;
+height:auto;
+background:none;
+border-radius: 0px 0 0 0px;
+text-indent: 16px;
+font:20px/50px Arial,sans-serif;
+color:red;
+}
+section>form ul>li:nth-child(2)>label{
+background-image: none
+}
+section>form ul>li:nth-child(3)>label{
+background-image: none;
+}
+section>form ul>li:nth-child(4)>label{
+background-image: none;
+}
+aside{
+display: none;
+}
+footer{
+padding-bottom:50px;
 }}
